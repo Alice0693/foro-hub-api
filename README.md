@@ -1,5 +1,9 @@
 🛡️ Foro Hub API - Solución al Desafío
+
+
 📝 Descripción del Proyecto
+
+
 Este proyecto es una API RESTful desarrollada como parte de un desafío de backend. 
 El objetivo principal es gestionar tópicos de un foro de discusión, permitiendo realizar operaciones CRUD (Create, Read, Update, Delete) completas. 
 La API garantiza la integridad de los datos y, fundamentalmente, la seguridad mediante un sistema de autenticación basado en tokens JWT (JSON Web Tokens).
